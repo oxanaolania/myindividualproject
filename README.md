@@ -1,0 +1,2 @@
+# myindividualproject
+basic computer class
